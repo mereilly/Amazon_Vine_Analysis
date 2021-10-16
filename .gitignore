@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 #secret
-config.py
+michelle_config.py
 
 #DS_Store
 .DS_Store
