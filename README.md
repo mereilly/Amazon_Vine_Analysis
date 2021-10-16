@@ -8,6 +8,7 @@ After working on the SellBy Project, my team was asked to evaluate Amazon Review
 How many Vine reviews and non-Vine reviews were there?
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
 ![Screen Shot 2021-10-15 at 10 42 46 PM](https://user-images.githubusercontent.com/82982952/137570588-b8480644-9d59-43b3-8940-a408f9106ccb.png)
 ![Screen Shot 2021-10-15 at 10 42 53 PM](https://user-images.githubusercontent.com/82982952/137570590-d91840d8-a290-4c50-a181-458eee13a0d4.png)
 ![Screen Shot 2021-10-15 at 10 43 01 PM](https://user-images.githubusercontent.com/82982952/137570591-7700db6e-4010-4e87-bb1d-f099187f856a.png)
