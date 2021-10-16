@@ -13,12 +13,20 @@ Total Reviews 2643619
 ![Screen Shot 2021-10-15 at 10 43 01 PM](https://user-images.githubusercontent.com/82982952/137570591-7700db6e-4010-4e87-bb1d-f099187f856a.png)
 ![Screen Shot 2021-10-15 at 10 43 08 PM](https://user-images.githubusercontent.com/82982952/137570592-159be584-4675-4c5b-94e1-351d43fee180.png)
 
-
-### Inputing dataframes into pgadmin tables
-![Screen Shot 2021-10-15 at 10 27 40 PM](https://user-images.githubusercontent.com/82982952/137570102-15844ba6-6496-4718-8e6e-401dc129475f.png)
-
+### 
 Questions: How many Vine reviews and non-Vine reviews were there?
+
+#### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars? What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
+At the end of our Vine_Analysis file we see a clear report with a break down of the prominance of 5 stars in the different subsections:## 
+-Five Stars in Vine Y (Vine): 10, Vine Y/Vine Total Reviews: 21, Portion that were five star reviews: 47.6
+-Five Stars in Vine X (Non Vine): 3448, Vine X/Non Vine Total Reviews: 6690, Portion that were five star reviews: 51.5
+
+Results: Using bulleted lists and images of DataFrames as support, address the following questions:
+
+How many Vine reviews and non-Vine reviews were there?
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
 
-Filter tables with a query tool using "WHERE" to specify the answers and determine bias.
+
