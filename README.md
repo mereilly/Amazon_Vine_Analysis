@@ -5,9 +5,7 @@ After working on the SellBy Project, my team was asked to evaluate Amazon Review
 
 
 ### Results
-How many Vine reviews and non-Vine reviews were there?
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+Total Reviews 2643619
 
 ![Screen Shot 2021-10-15 at 10 42 46 PM](https://user-images.githubusercontent.com/82982952/137570588-b8480644-9d59-43b3-8940-a408f9106ccb.png)
 ![Screen Shot 2021-10-15 at 10 42 53 PM](https://user-images.githubusercontent.com/82982952/137570590-d91840d8-a290-4c50-a181-458eee13a0d4.png)
@@ -18,3 +16,9 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 
 ### Inputing dataframes into pgadmin tables
 ![Screen Shot 2021-10-15 at 10 27 40 PM](https://user-images.githubusercontent.com/82982952/137570102-15844ba6-6496-4718-8e6e-401dc129475f.png)
+
+Questions: How many Vine reviews and non-Vine reviews were there?
+How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
+Filter tables with a query tool using "WHERE" to specify the answers and determine bias.
