@@ -14,5 +14,5 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 ![Screen Shot 2021-10-15 at 10 43 08 PM](https://user-images.githubusercontent.com/82982952/137570592-159be584-4675-4c5b-94e1-351d43fee180.png)
 
 
-
+### Inputing dataframes into pgadmin tables
 ![Screen Shot 2021-10-15 at 10 27 40 PM](https://user-images.githubusercontent.com/82982952/137570102-15844ba6-6496-4718-8e6e-401dc129475f.png)
